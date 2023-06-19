@@ -13,5 +13,5 @@
 - Check some of my latest projects [**here**](https://troopl.com/janedoronina) ⬅️
 
 ## 📫 How to reach me: 
-- <a href="https://linkedin.com/in/zhanna-doronina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhanna-doronina" height="30" width="40" /></a>
-- <a href="mailto:doronina.jane.work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/zhanna-doronina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhanna-doronina" height="30" width="40" style="margin-right: 20px" /></a>
+<a href="mailto:doronina.jane.work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
