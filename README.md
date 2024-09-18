@@ -1,5 +1,5 @@
 # Hi there, I'm Zhanna 👋
-- I'm a Full-stack/Frontend Developer based in London. 
+- I'm a Full-stack Developer based in London. 
 - Passionate about problem-solving, creative design and building all aspects of UX/UI. 
 - Strong believer in continuous learning.
 - Currently sharpening my skills in advanced JavaScript and testing frameworks.
